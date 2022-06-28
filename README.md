@@ -1,5 +1,5 @@
 # Web-Dir-Checker
-![alt text](https://github.com/FabianOnSecurity/images/cover-image.jpg)
+![alt text](https://github.com/FabianOnSecurity/Web-Dir-Checker/blob/main/images/cover-image.jpg)
 This tool tries all possible directories in a [default] list and ignore all with specifed error code [e.g. 404].
 
 ##Syntax
